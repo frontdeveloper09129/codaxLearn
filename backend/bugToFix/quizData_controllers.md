@@ -1,0 +1,2 @@
+1. reset score messsage or total score having a bug result: the userScore.length has still 6 values even i reset it
+    -   i already find the bug the only the why result backend response is always "quiz is not finished yet" because we use wrong varible name

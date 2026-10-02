@@ -1,0 +1,1 @@
+- need to use get method api to get all the user from our database
